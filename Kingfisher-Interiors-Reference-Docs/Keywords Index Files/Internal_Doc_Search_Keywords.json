@@ -1,0 +1,586 @@
+[
+    {
+        "title":"CREATE VENDOR (SUPPLIER)",
+        "page":4,
+        "section":"1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"CREATE A FINISHED GOODS FACTORY",
+        "page":7,
+        "section":"1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"ASSOCIATE FINISHED GOODS FACTORIES TO A VENDOR",
+        "page":9,
+        "section":"1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"TO CREATE A MATERIAL SUPPLIER",
+        "page":12,
+        "section":"1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"MATERIAL",
+        "page":15,
+        "section":"1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"CREATE MATERIAL",
+        "page":16,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"ADD SUPPLIER TO MATERIAL",
+        "page":20,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"ADD COLORS TO MATERIALS",
+        "page":22,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"DEFINE SUPPLIER SPECIFIC DETAILS AND PRICE OF MATERIAL",
+        "page":24,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"UPDATE MATERIAL-SUPPLIER COLOR DETAILS",
+        "page":27,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"CREATING MATERIAL (COLOR DEVELOPMENT) SAMPLE REQUESTS",
+        "page":28,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"UPDATE A COLOR DEVELOPMENT REQUEST",
+        "page":31,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"ADD A DOCUMENT TO MATERIAL",
+        "page":33,
+        "section":"2.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"CREATE OTHER TYPE OF MATERIALS",
+        "page":37,
+        "section": "2.1",
+        "description":"2.1",
+        "file":"Part1"
+    },
+    {
+        "title":"Create Trims",
+        "page":37,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Create Zippers",
+        "page":37,
+        "section":"2.9.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Create Puller",
+        "page":41,
+        "section":"2.9.1.2",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Create Logo",
+        "page":46,
+        "section":"2.9.1.3",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Create Hard Goods",
+        "page":49,
+        "section":"2.9.1.4",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Embellishment",
+        "page":54,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Packaging",
+        "page":57,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Hand Tag",
+        "page":57,
+        "section":"1.2.9.3.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Reinforcement",
+        "page":61,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Reinforcement Foam",
+        "page":61,
+        "section":"1.2.9.4.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Chemical",
+        "page":65,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Wheeled Component",
+        "page":68,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Wheeled Component Trolley",
+        "page":68,
+        "section":"1.2.9.6.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Leather",
+        "page":72,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Charms",
+        "page":75,
+        "section":"2.1.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"Charms Monkey",
+        "page":75,
+        "section":"1.2.9.8.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"ADD SOURCING CONFIGURATION TO A PRODUCT",
+        "page":79,
+        "section":"3.1",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"UPDATE SOURCING CONFIGURATION",
+        "page":84,
+        "section":"3.2",
+        "description":"",
+        "file":"Part1"
+    },
+    {
+        "title":"MATERIAL AGGREGATION REPORT",
+        "page":90,
+        "section":"3.3",
+        "description":"",
+        "file":"Part1"
+    },
+
+
+
+
+    {
+        "title":"CREATE SPECIFICATIONS FOR PRODUCTS",
+        "page":1,
+        "section":"4.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"UPDATE SPECIFICATIONS",
+        "page":7,
+        "section":"4.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"CREATE SPECIFICATIONS COMPONENTS SEPARATELY",
+        "page":8,
+        "section":"4.3",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create BOM",
+        "page":8,
+        "section":"4.3.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Add BOM Components",
+        "page":11,
+        "section":"4.3.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Adding Colors to the Material Components",
+        "page":13,
+        "section":"4.3.3",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Completing a BOM line item to get the Total Price",
+        "page":15,
+        "section":"4.3.4",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Remove a Material from the BOM",
+        "page":17,
+        "section":"4.3.5",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Smart Insert Material",
+        "page":18,
+        "section":"4.3.6",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create BoM with Colorway Variation",
+        "page":20,
+        "section":"4.3.7",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create Image Page",
+        "page":22,
+        "section":"4.3.8",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"ADD EXISTING COMPONENTS TO SPECIFICATION SET",
+        "page":27,
+        "section":"4.4",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"GENERATE TECH PACK",
+        "page":31,
+        "section":"4.5",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"SEARCHING A COLORFORM IN LIBRARY",
+        "page":35,
+        "section":"5.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"GROUPING IN SEARCH RESULTS",
+        "page":37,
+        "section":"5.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"EDIT SEARCH RESULTS",
+        "page":38,
+        "section":"5.3",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"EXPORT COLORFORM TO PDF AND EXCEL FORMATS",
+        "page":43,
+        "section":"5.4",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"SAMPLE MANAGEMENT",
+        "page":47,
+        "section":"1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"PRODUCT SAMPLES",
+        "page":47,
+        "section":"6.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create Proto Sample Request from Product",
+        "page":48,
+        "section":"6.1.1.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create Finalisation Sample Request from Product",
+        "page":54,
+        "section":"6.1.1.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create Sample Request from Line Sheet",
+        "page":58,
+        "section":"6.1.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create Sample Request from Sample Tracking Report",
+        "page":61,
+        "section":"6.1.3",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Update Sample Request",
+        "page":61,
+        "section":"6.1.4",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Adding Tech Pack and Images to the Sample Request",
+        "page":65,
+        "section":"6.1.6",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Adding Sample information into Tech Pack",
+        "page":71,
+        "section":"6.1.7",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Sample Tracking",
+        "page":73,
+        "section":"6.1.8",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"VRD Sample Tracking Report",
+        "page":74,
+        "section":"6.1.8.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Creation of Samples from Sample Tracking Report",
+        "page":77,
+        "section":"6.1.8.1.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"PDF and Excel export of the report",
+        "page":78,
+        "section":"6.1.8.1.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Excel Export",
+        "page":78,
+        "section":"6.1.8.1.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"PDF Export",
+        "page":78,
+        "section":"6.1.8.1.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Sample Library Search",
+        "page":79,
+        "section":"6.1.8.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Mass Update Search Results",
+        "page":80,
+        "section":"6.1.8.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Request Color Development Samples from Material Library",
+        "page":83,
+        "section":"6.2.1.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {   "title":"Request Color Development Sample Requests from Material Color Palette",
+        "page":87,
+        "section":"6.2.1.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Request Color Development Sample Requests from Material Library Search",
+        "page":90,
+        "section":"6.2.1.3",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Request Color Development Sample Requests from Lab Dip Tracking Report",
+        "page":92,
+        "section":"6.2.1.4",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Update Color Development Sample Requests (Lab Dips)",
+        "page":92,
+        "section":"6.2.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Create Multiple Samples within a Sample Request",
+        "page":93,
+        "section":"6.2.3",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"VRD Lab Dip Tracking Report",
+        "page":93,
+        "section":"6.2.4.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"Sample Library Search--Lab-Dip Tracking",
+        "page":98,
+        "section":"6.2.4.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"CREATE COST SHEET",
+        "page":101,
+        "section":"7.1",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"UPDATE COST SHEET",
+        "page":107,
+        "section":"7.2",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"SET COST SHEET AS PRIMARY",
+        "page":109,
+        "section":"7.3",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"CREATE MULTIPLE COST SHEETS",
+        "page":110,
+        "section":"7.4",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"COLORWAY LEVEL COSTING",
+        "page":113,
+        "section":"7.5",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"WHAT IF COSTING",
+        "page":118,
+        "section":"7.6",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"COST SHEET COMPARISON",
+        "page":122,
+        "section":"7.7",
+        "description":"",
+        "file":"Part2"
+    },
+    {
+        "title":"COST SHEET ITERATIONS AND COMPARISON",
+        "page":123,
+        "section":"7.8",
+        "description":"",
+        "file":"Part2"
+    }
+]
