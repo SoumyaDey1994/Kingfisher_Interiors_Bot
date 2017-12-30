@@ -1,586 +1,562 @@
 [
     {
         "title":"CREATE VENDOR (SUPPLIER)",
-        "page":4,
         "section":"1.1",
-        "description":"",
-        "file":"Part1"
+        "page":4,
+        "description":"1.Click on ‘Vendor (Supplier)’ from Library.\n\n2.Find: Vendor (Supplier) page will be displayed on the right workspace area. Click on ‘New’...",
+        "category":""
     },
     {
         "title":"CREATE A FINISHED GOODS FACTORY",
+        "section":"1.2",
         "page":7,
-        "section":"1.1",
-        "description":"",
-        "file":"Part1"
+        "description":"1.Click on ‘Vendor (Supplier)’ in Libraries.\n\n2.Find: Vendor (Supplier) page will be displayed on the right workspace area and Click on ‘New’...",
+        "category":""
     },
     {
         "title":"ASSOCIATE FINISHED GOODS FACTORIES TO A VENDOR",
+        "section":"1.3",
         "page":9,
-        "section":"1.1",
-        "description":"",
-        "file":"Part1"
+        "description":"1.Go to the ‘Supplier Details’ page of a Vendor to whom Factories have to be associated.\n\n2. Under the Relationships attribute, Click on ‘Edit’...",
+        "category":""
     },
     {
         "title":"TO CREATE A MATERIAL SUPPLIER",
+        "section":"1.4",
         "page":12,
-        "section":"1.1",
-        "description":"",
-        "file":"Part1"
-    },
-    {
-        "title":"MATERIAL",
-        "page":15,
-        "section":"1",
-        "description":"",
-        "file":"Part1"
+        "description":"1. Click on ‘Vendor (Supplier)’.\n\n2.Find: Vendor (Supplier) page will be displayed on the right workspace area and Click on ‘New’...",
+        "category":""
     },
     {
         "title":"CREATE MATERIAL",
-        "page":16,
         "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "page":15,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"ADD SUPPLIER TO MATERIAL",
-        "page":20,
-        "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.2",
+        "page":19,
+        "description":"1.On Material details page, click on ‘Add Suppliers’ from ‘Actions’ drop down List.\n\n2.Find: Supplier page pops up. Select the required Sub Type (Example- Material Supplier)...",
+        "category":"material"
     },
     {
         "title":"ADD COLORS TO MATERIALS",
-        "page":22,
-        "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.3",
+        "page":21,
+        "description":"1.Navigate to the 'Color' tab on the Material page. Select the Supplier.\n\n2.Select 'Add Color'(in case of a single color) or Add Multiple colors...",
+        "category":"material"
     },
     {
         "title":"DEFINE SUPPLIER SPECIFIC DETAILS AND PRICE OF MATERIAL",
-        "page":24,
-        "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.4",
+        "page":23,
+        "description":"1.On the Material Details page, select the supplier from the ‘Supplier’ drop down list.\n\n2.Click on Update Material Supplier from Actions drop down...",
+        "category":"material"
     },
     {
         "title":"UPDATE MATERIAL-SUPPLIER COLOR DETAILS",
-        "page":27,
-        "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.5",
+        "page":26,
+        "description":"1.Go to Color tab and select the supplier from the ‘Supplier’ drop down list\n\n2.Scroll down and click on Material Color from Actions drop down against the required Color details...",
+        "category":"material"
     },
     {
         "title":"CREATING MATERIAL (COLOR DEVELOPMENT) SAMPLE REQUESTS",
-        "page":28,
-        "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.5",
+        "page":27,
+        "description":"1.Navigate to the Material Details page and Select Supplier from drop down.\n\n2. Choose the Material Color from the list. For Example- We choose B627 FOG GREY...",
+        "category":"material"
     },
     {
         "title":"UPDATE A COLOR DEVELOPMENT REQUEST",
-        "page":31,
-        "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.6",
+        "page":29,
+        "description":"1.Click on Include Sample under Material Color tab and click on the required Color Development Sample Request Name from the list. For Example – We choose 63 Lab-dips...",
+        "category":"material"
     },
     {
         "title":"ADD A DOCUMENT TO MATERIAL",
-        "page":33,
-        "section":"2.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.7",
+        "page":31,
+        "description":"1.On the Materials Details page, Click on ‘Documents’ tab.\n\n2. ‘Materials Documents’ page opens. Navigate to the bottom of the page to find ‘Material Document’...",
+        "category":"material"
     },
     {
         "title":"CREATE OTHER TYPE OF MATERIALS",
-        "page":37,
-        "section": "2.1",
-        "description":"2.1",
-        "file":"Part1"
+        "section":"2.8",
+        "page":34,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
-        "title":"Create Trims",
-        "page":37,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "title":"Trims",
+        "section":"2.9.1",
+        "page":34,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
-        "title":"Create Zippers",
-        "page":37,
+        "title":"Zippers",
         "section":"2.9.1.1",
-        "description":"",
-        "file":"Part1"
+        "page":34,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
-        "title":"Create Puller",
-        "page":41,
+        "title":"Puller",
         "section":"2.9.1.2",
-        "description":"",
-        "file":"Part1"
+        "page":38,
+        "description":"1.Click on 'Libraries'. (Same as above).\n\n2.Click on 'Material'. (Same as above)...",
+        "category":"material"
     },
     {
-        "title":"Create Logo",
-        "page":46,
+        "title":"Logo",
         "section":"2.9.1.3",
-        "description":"",
-        "file":"Part1"
+        "page":43,
+        "description":" 1. Click on 'Libraries'.\n\n 2.Click on 'Material'...",
+        "category":"material"
     },
     {
-        "title":"Create Hard Goods",
-        "page":49,
+        "title":"Hand Goods",
         "section":"2.9.1.4",
-        "description":"",
-        "file":"Part1"
+        "page":46,
+        "description":" 1. Click on 'Libraries'.\n\n 2.Click on 'Material'.",
+        "category":"material"
     },
     {
         "title":"Embellishment",
-        "page":54,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.9.2",
+        "page":51,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"Packaging",
-        "page":57,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.9.3",
+        "page":54,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"Hand Tag",
-        "page":57,
         "section":"1.2.9.3.1",
-        "description":"",
-        "file":"Part1"
+        "page":54,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"Reinforcement",
-        "page":61,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.9.4",
+        "page":58,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
-        "title":"Reinforcement Foam",
-        "page":61,
+        "title":"Foam",
         "section":"1.2.9.4.1",
-        "description":"",
-        "file":"Part1"
+        "page":58,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"Chemical",
-        "page":65,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.9.5",
+        "page":60,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"Wheeled Component",
-        "page":68,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.9.6",
+        "page":64,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
-        "title":"Wheeled Component Trolley",
-        "page":68,
+        "title":"Trolley",
         "section":"1.2.9.6.1",
-        "description":"",
-        "file":"Part1"
+        "page":64,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"Leather",
-        "page":72,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.9.7",
+        "page":68,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"Charms",
-        "page":75,
-        "section":"2.1.1",
-        "description":"",
-        "file":"Part1"
+        "section":"2.9.8",
+        "page":71,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
-        "title":"Charms Monkey",
-        "page":75,
+        "title":"Monkey",
         "section":"1.2.9.8.1",
-        "description":"",
-        "file":"Part1"
+        "page":71,
+        "description":"1.Click on 'Libraries'.\n\n2.Click on 'Material'...",
+        "category":"material"
     },
     {
         "title":"ADD SOURCING CONFIGURATION TO A PRODUCT",
-        "page":79,
         "section":"3.1",
-        "description":"",
-        "file":"Part1"
+        "page":74,
+        "description":"Client XYZ business will associate vendor and factory where the product is being sourced. In the system this will be done through sourcing configuration...",
+        "category":""
     },
     {
         "title":"UPDATE SOURCING CONFIGURATION",
-        "page":84,
         "section":"3.2",
-        "description":"",
-        "file":"Part1"
+        "page":78,
+        "description":"1.To add factory details navigate to the Sourcing Summary tab and select CLIENT XYZ Source from Source drop down...",
+        "category":""
     },
     {
         "title":"MATERIAL AGGREGATION REPORT",
-        "page":90,
         "section":"3.3",
-        "description":"",
-        "file":"Part1"
+        "page":84,
+        "description":"This report/extension provides an aggregate view of all the materials used in a season.  The materials, quantity usage are all rolled-up from the BOMs associated to Products in the Season... ",
+        "category":""
     },
-
-
-
-
     {
         "title":"CREATE SPECIFICATIONS FOR PRODUCTS",
-        "page":1,
         "section":"4.1",
-        "description":"",
-        "file":"Part2"
+        "page":91,
+        "description":"1.Select Season from My Seasons drop down and click on Line Sheet.\n\n2.Select the Product...",
+        "category":""
     },
     {
         "title":"UPDATE SPECIFICATIONS",
-        "page":7,
         "section":"4.2",
-        "description":"",
-        "file":"Part2"
+        "page":96,
+        "description":"1.Go to Specifications.\n\n2.Click on Action Dropdown on the Right and Select Update Spec Option.",
+        "category":""
     },
     {
         "title":"CREATE SPECIFICATIONS COMPONENTS SEPARATELY",
-        "page":8,
         "section":"4.3",
-        "description":"",
-        "file":"Part2"
+        "page":97,
+        "description":"1.Go to Product Specification Page.\n\n2.Click on Materials Tab...",
+        "category":""
     },
     {
         "title":"Create BOM",
-        "page":8,
         "section":"4.3.1",
-        "description":"",
-        "file":"Part2"
+        "page":97,
+        "description":"1.Go to Product Specification Page.\n\n2.Click on Materials Tab...",
+        "category":""
     },
     {
         "title":"Add BOM Components",
-        "page":11,
         "section":"4.3.2",
-        "description":"",
-        "file":"Part2"
+        "page":100,
+        "description":"1.To add materials, navigate to any component where the materials need to be attached (Example, Fabric and Leather)...",
+        "category":""
     },
     {
         "title":"Adding Colors to the Material Components",
-        "page":13,
         "section":"4.3.3",
-        "description":"",
-        "file":"Part2"
+        "page":102,
+        "description":"1.To add Color to the Material, click in the cell below Color column.\n\n2.Click on Colors button...",
+        "category":""
     },
     {
         "title":"Completing a BOM line item to get the Total Price",
-        "page":15,
         "section":"4.3.4",
-        "description":"",
-        "file":"Part2"
+        "page":104,
+        "description":"1.After the Materials and the Colors have been added, type in the Consumption by clicking on the section below that column...",
+        "category":""
     },
     {
         "title":"Remove a Material from the BOM",
-        "page":17,
         "section":"4.3.5",
-        "description":"",
-        "file":"Part2"
+        "page":106,
+        "description":"1.Click on the Clear option.\n\n2.Hold the ‘Ctrl’ key on keyboard and left click (on mouse) on the Material name.",
+        "category":""
     },
     {
         "title":"Smart Insert Material",
-        "page":18,
         "section":"4.3.6",
-        "description":"",
-        "file":"Part2"
+        "page":107,
+        "description":"1.Click on the Material or Color section of a line item.\n\n2.Type: name or part of name* (Example: Teeth*)",
+        "category":""
     },
     {
         "title":"Create BoM with Colorway Variation",
-        "page":20,
         "section":"4.3.7",
-        "description":"",
-        "file":"Part2"
+        "page":109,
+        "description":"1.Make sure the Colorways are reflecting on the BOM page.\n\n2.Click on the checkbox against the material which has to be replaced by another material for a Colorway.",
+        "category":""
     },
     {
         "title":"Create Image Page",
-        "page":22,
         "section":"4.3.8",
-        "description":"",
-        "file":"Part2"
+        "page":111,
+        "description":"1.Navigate to Season > Line Sheet > Product > Specifications >Images.\n\n2.Click on ‘Add New Image Page’.",
+        "category":""
     },
     {
         "title":"ADD EXISTING COMPONENTS TO SPECIFICATION SET",
-        "page":27,
         "section":"4.4",
-        "description":"",
-        "file":"Part2"
+        "page":116,
+        "description":"1.BOM is created under the Product as an individual component.\n\n2.Go to the Product Specification Page.",
+        "category":""
     },
     {
         "title":"GENERATE TECH PACK",
-        "page":31,
         "section":"4.5",
-        "description":"",
-        "file":"Part2"
+        "page":119,
+        "description":"1.Navigate to the Product Specifications Summary page.\n\n2.Select Specification from the Drop down. Source is automatically selected.",
+        "category":""
     },
     {
         "title":"SEARCHING A COLORFORM IN LIBRARY",
-        "page":35,
         "section":"5.1",
-        "description":"",
-        "file":"Part2"
+        "page":123,
+        "description":"1.Go to Libraries.\n\n2.Click on Colorform...",
+        "category":""
     },
     {
         "title":"GROUPING IN SEARCH RESULTS",
-        "page":37,
         "section":"5.2",
-        "description":"",
-        "file":"Part2"
+        "page":125,
+        "description":"1.Go to the search Results.\n\n2.Click on the attribute to be grouped (Example -GBA).",
+        "category":""
     },
     {
         "title":"EDIT SEARCH RESULTS",
-        "page":38,
         "section":"5.3",
-        "description":"",
-        "file":"Part2"
+        "page":126,
+        "description":"1.Click on Update Results link on Search Results displaying all the colorforms in the Library.\n\n2.Go to the attribute Value which is to be updated.(Example- Main Material For first Colorform)...",
+        "category":""
     },
     {
         "title":"EXPORT COLORFORM TO PDF AND EXCEL FORMATS",
-        "page":43,
         "section":"5.4",
-        "description":"",
-        "file":"Part2"
+        "page":131,
+        "description":"1. Go to Libraries.\n\n2.Click on Colorform.",
+        "category":""
     },
     {
         "title":"SAMPLE MANAGEMENT",
-        "page":47,
-        "section":"1",
-        "description":"",
-        "file":"Part2"
+        "section":"6",
+        "page":134,
+        "description":"The samples are general requested by the EMEA and US team to PD Asia. PD Asia will get the sample developed from the vendor...",
+        "category":""
     },
     {
         "title":"PRODUCT SAMPLES",
-        "page":47,
         "section":"6.1",
-        "description":"",
-        "file":"Part2"
+        "page":134,
+        "description":"Design / merchandise team will create the sample request to PD Asia (CLIENT XYZ) and PD Asia (CLIENT XYZ) will allocate the sample request to the vendor factory...",
+        "category":""
     },
     {
         "title":"Create Proto Sample Request from Product",
-        "page":48,
         "section":"6.1.1.1",
-        "description":"",
-        "file":"Part2"
+        "page":135,
+        "description":"Client XYZ EMEA users will create Concept, Proto and Soft Lock samples. Soft Lock Samples are the final samples created in Product Development process...",
+        "category":""
     },
     {
         "title":"Create Finalisation Sample Request from Product",
-        "page":54,
         "section":"6.1.1.2",
-        "description":"",
-        "file":"Part2"
+        "page":141,
+        "description":"1.Navigate to the Product from Season (US Season) Line Sheet. Navigate to Sourcing tab and then Samples.\n\n2. Select Source and Specification.",
+        "category":""
     },
     {
         "title":"Create Sample Request from Line Sheet",
-        "page":58,
         "section":"6.1.2",
-        "description":"",
-        "file":"Part2"
+        "page":145,
+        "description":"1.Navigate to the Season Line Sheet and select required Product and click on Create New Samples from Actions drop down...",
+        "category":""
     },
     {
         "title":"Create Sample Request from Sample Tracking Report",
-        "page":61,
         "section":"6.1.3",
-        "description":"",
-        "file":"Part2"
+        "page":148,
+        "description":"Product Samples can be created from Sample Tracking Report as well. The steps have been explained under Sample Tracking Report...",
+        "category":""
     },
     {
         "title":"Update Sample Request",
-        "page":61,
         "section":"6.1.4",
-        "description":"",
-        "file":"Part2"
+        "page":148,
+        "description":"1.Navigate to the Sample Request and click on Update from Actions drop down.\n\n2.Fill all the required details and click on Save...",
+        "category":""
     },
     {
         "title":"Adding Tech Pack and Images to the Sample Request",
-        "page":65,
         "section":"6.1.6",
-        "description":"",
-        "file":"Part2"
+        "page":152,
+        "description":"1.Navigate to the Sample Request and click on View from Actions drop down.\n\n2.Click on Document tab and click on Add Existing Reference Document from Actions drop down...",
+        "category":""
     },
     {
         "title":"Adding Sample information into Tech Pack",
-        "page":71,
         "section":"6.1.7",
-        "description":"",
-        "file":"Part2"
-    },
-    {
-        "title":"Sample Tracking",
-        "page":73,
-        "section":"6.1.8",
-        "description":"",
-        "file":"Part2"
+        "page":158,
+        "description":"1. Navigate to the Create Tech Pack pop up page. (Steps have been explained in Specification Tech Pack manual. Please refer to that)...",
+        "category":""
     },
     {
         "title":"VRD Sample Tracking Report",
-        "page":74,
         "section":"6.1.8.1",
-        "description":"",
-        "file":"Part2"
+        "page":160,
+        "description":"1.Navigate to the season from My Seasons drop down.\n\n2.Click on Sample Tracking from Reports.",
+        "category":""
     },
     {
         "title":"Creation of Samples from Sample Tracking Report",
-        "page":77,
         "section":"6.1.8.1.1",
-        "description":"",
-        "file":"Part2"
+        "page":163,
+        "description":"1.Go to the Options tab of the Report.\n\n2.When the Include Products without Samples is checked then the report will contain all the Products for which sample requests have not been requested.",
+        "category":""
     },
     {
         "title":"PDF and Excel export of the report",
-        "page":78,
         "section":"6.1.8.1.2",
-        "description":"",
-        "file":"Part2"
-    },
-    {
-        "title":"Excel Export",
-        "page":78,
-        "section":"6.1.8.1.2",
-        "description":"",
-        "file":"Part2"
-    },
-    {
-        "title":"PDF Export",
-        "page":78,
-        "section":"6.1.8.1.2",
-        "description":"",
-        "file":"Part2"
+        "page":164,
+        "description":"The excel and PDF export of the Report can be taken by clicking icons.\n\nFor other Products user can track the sample development process by exporting this report in either excel or in pdf...",
+        "category":""
     },
     {
         "title":"Sample Library Search",
-        "page":79,
         "section":"6.1.8.2",
-        "description":"",
-        "file":"Part2"
+        "page":165,
+        "description":"1.Navigate to the Sample Library.\n\n2.Find Sample page will display. Enter the Search criteria and click on Search...",
+        "category":""
     },
     {
         "title":"Mass Update Search Results",
-        "page":80,
-        "section":"6.1.8.2",
-        "description":"",
-        "file":"Part2"
+        "section":"6.1.8.3",
+        "page":166,
+        "description":"1.Go to the Search Results Page.\n\n2.Click on Update Results...",
+        "category":""
+    },
+    {
+        "title":"Request Color Development Samples (Lab Dips)",
+        "section":"6.2.1",
+        "page":169,
+        "description":"Client XYZ users can request Color Development samples from Material library as well as from Material Color Palette...",
+        "category":""
     },
     {
         "title":"Request Color Development Samples from Material Library",
-        "page":83,
         "section":"6.2.1.1",
-        "description":"",
-        "file":"Part2"
+        "page":169,
+        "description":"1.Navigate to the Material Color page and select Source.\n\n2.Select Material Color and click on Create New Color Development Request from Color Actions drop down.",
+        "category":""
     },
-    {   "title":"Request Color Development Sample Requests from Material Color Palette",
-        "page":87,
+    {
+        "title":"Request Color Development Sample Requests from Material Color Palette",
         "section":"6.2.1.2",
-        "description":"",
-        "file":"Part2"
+        "page":173,
+        "description":"1.Navigate to Season Palette and click on Material Color Palette.\n\n2.Select the Material Colors for which lab dips to be requested...",
+        "category":""
     },
     {
         "title":"Request Color Development Sample Requests from Material Library Search",
-        "page":90,
         "section":"6.2.1.3",
-        "description":"",
-        "file":"Part2"
+        "page":176,
+        "description":"1.Navigate to the Material Library.\n\n2.Find Material page will display. Enter Search criteria like choose Material Type from hierarchy, Material Status, Name etc. to narrow down the search results and click on Search.",
+        "category":""
     },
     {
         "title":"Request Color Development Sample Requests from Lab Dip Tracking Report",
-        "page":92,
         "section":"6.2.1.4",
-        "description":"",
-        "file":"Part2"
+        "page":178,
+        "description":"Users can create multiple lab dips for multiple materials from multiple seasons at one go. The steps have been explained below under Lap Dip Tracking...",
+        "category":""
     },
     {
         "title":"Update Color Development Sample Requests (Lab Dips)",
-        "page":92,
         "section":"6.2.2",
-        "description":"",
-        "file":"Part2"
+        "page":178,
+        "description":"Please Refer Section 2.7...",
+        "category":""
     },
     {
         "title":"Create Multiple Samples within a Sample Request",
-        "page":93,
         "section":"6.2.3",
-        "description":"",
-        "file":"Part2"
+        "page":179,
+        "description":"Process is same as Product Sample.\n\nPlease refer Product Sample...",
+        "category":""
     },
     {
         "title":"VRD Lab Dip Tracking Report",
-        "page":93,
         "section":"6.2.4.1",
-        "description":"",
-        "file":"Part2"
+        "page":179,
+        "description":"Process is same as Product Sample. Please refer Product Sample.Unlike the library view of samples, the data is organized based on the seasonal product information...",
+        "category":""
     },
     {
-        "title":"Sample Library Search--Lab-Dip Tracking",
-        "page":98,
+        "title":"Sample Library Search",
         "section":"6.2.4.2",
-        "description":"",
-        "file":"Part2"
+        "page":184,
+        "description":"User can search Material Samples (Lab Dips) from Sample Library Search Results.This functionality will give users to create different Views...",
+        "category":""
     },
     {
         "title":"CREATE COST SHEET",
-        "page":101,
         "section":"7.1",
-        "description":"",
-        "file":"Part2"
+        "page":187,
+        "description":"1.Navigate to Season > Line Sheet > Product > Sourcing. Click on ‘Costing’ tab.\n\n2.Select Source from the drop down list",
+        "category":""
     },
     {
         "title":"UPDATE COST SHEET",
-        "page":107,
         "section":"7.2",
-        "description":"",
-        "file":"Part2"
+        "page":193,
+        "description":"1.Navigate to Product > Sourcing > Costing.\n\n2.Go to the Cost Sheet tab.",
+        "category":""
     },
     {
         "title":"SET COST SHEET AS PRIMARY",
-        "page":109,
         "section":"7.3",
-        "description":"",
-        "file":"Part2"
+        "page":195,
+        "description":"1.Go to the Cost Sheet.\n\n2.Go to Actions dropdown list and Select Set as Primary.",
+        "category":""
     },
     {
         "title":"CREATE MULTIPLE COST SHEETS",
-        "page":110,
         "section":"7.4",
-        "description":"",
-        "file":"Part2"
+        "page":196,
+        "description":"1.Go to the Cost Sheet List tab.\n\n2.Go to Actions dropdown list and Select Create Multiple Cost Sheets option.",
+        "category":""
     },
     {
         "title":"COLORWAY LEVEL COSTING",
-        "page":113,
         "section":"7.5",
-        "description":"",
-        "file":"Part2"
+        "page":199,
+        "description":"1.Navigate to Product > Sourcing > Costing.\n\n2.Select Create Cost Sheet option in Action dropdown list under Cost Sheet list tab.",
+        "category":""
     },
     {
         "title":"WHAT IF COSTING",
-        "page":118,
         "section":"7.6",
-        "description":"",
-        "file":"Part2"
+        "page":204,
+        "description":"1.Go to Product Costing Page.\n\n2.Go to Cost Sheet List tab.",
+        "category":""
     },
     {
         "title":"COST SHEET COMPARISON",
-        "page":122,
         "section":"7.7",
-        "description":"",
-        "file":"Part2"
+        "page":208,
+        "description":"1.Go to Product Sourcing Cost sheet Compare tab.\n\n2.Cost Sheet Comparison will display below.",
+        "category":""
     },
     {
         "title":"COST SHEET ITERATIONS AND COMPARISON",
-        "page":123,
         "section":"7.8",
-        "description":"",
-        "file":"Part2"
+        "page":209,
+        "description":"1.Go to the Product Costing Page.\n\n2.Go to the Cost Sheet list tab and Select the Cost sheet.",
+        "category":""
     }
 ]

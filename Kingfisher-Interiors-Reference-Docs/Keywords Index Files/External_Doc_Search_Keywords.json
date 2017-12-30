@@ -1,0 +1,135 @@
+[
+    {
+        "title":"Activities of a Vendor/Finished Goods Factory in flexplm",
+        "page":3,
+        "section":"1.0",
+        "description":"Client XYZ business wants Vendor – Factory to be able to access the system, so that they are able to complete work assigned to them..."
+    },
+    {
+        "title":"How To Login To Flex PLM",
+        "page":3,
+        "section":"1.1",
+        "description":"FlexPLM is a web-based application which operates on a client-server environment. FlexPLM facilitates the vendor/finished goods factory to work on a web interface..."
+    },
+    {
+        "title":"Create BOM from Season Dashboard",
+        "page":4,
+        "section":"1.1.1",
+        "description":"Vendor/Finished Goods Factory will log on to the FlexPLM by using their credentials. (Please refer Introduction to FlexPLM document to know how to log in to FlexPLM)..."
+    },
+    {
+        "title":"Add BOM Components",
+        "page":8,
+        "section":"1.1.1.2",
+        "description":"Materials can be added to BOM from Material Library in different sections of BOM. Cost of each material and all relevant information will be pulled onto the BOM respectively..."
+    },
+    {
+        "title":"Adding Colors to the Material Components",
+        "page":10,
+        "section":"1.1.1.3",
+        "description":"Once the Material has been added to the BOM, user will need to add colors to the BOM. Since the Color Control Mode of Client XYZ is Independent, user can choose any Color from library..."
+    },
+    {
+        "title":"Completing a BOM line item to get the Total Price",
+        "page":12,
+        "section":"1.1.1.4",
+        "description":"After the Materials and the Colors have been added, type in the Consumption and Price Override by clicking on the section below those column..."
+    },
+    {
+        "title":"Remove a Material from the BOM",
+        "page":14,
+        "section":"1.1.1.5",
+        "description":" If an unwanted material or color has been added to the BOM, the user can remove that material or color by following these simple steps:..."
+    },
+    {
+        "title":"Smart Insert Material",
+        "page":15,
+        "section":"1.1.1.6",
+        "description":" This option helps the user to avoid searching a Material or Color from the Library when the Material or Color name (or a part of it) is known..."
+    },
+    {
+        "title":"Create BoM with Colorway Variation",
+        "page":16,
+        "section":"1.1.1.7",
+        "description":" When different Colorways of a product have different material, Colorway Variation functionality of Flex PLM helps illustrate this scenario in a single BOM..."
+    },
+    {
+        "title":"Create BoM from Product Library",
+        "page":18,
+        "section":"1.1.1.8",
+        "description":" 1.Click on Product under Libraries.\n\n2.Choose Product Type and enter other search criteria like Name, Created Date etc..."
+    },
+    {
+        "title":"Procedure to Update BOM",
+        "page":19,
+        "section":"1.1.1.9",
+        "description":" Vendor/Finished Goods Factory will be able to update any BOM as required. Sometimes CLIENT XYZ will initialize BOM while creating Specification..."
+    },
+    {
+        "title":"Copy & Paste BOM",
+        "page":21,
+        "section":"1.1.1.10",
+        "description":" Vendor/Finished Goods Factory will be able to copy the BOM from one Product and Paste it in other Product..."
+    },
+    {
+        "title":"Export BOM in excel or in pdf",
+        "page":25,
+        "section":"1.1.1.11",
+        "description":"Vendor/Finished Goods Factory can export BOM in excel file or in pdf format.To export BOM in excel format Navigate to the BOM from Specification/Material Page (refer section 1.1.1.1)..."
+    },
+    {
+        "title":"Update Cost Sheet",
+        "page":29,
+        "section":"1.3.1",
+        "description":" Client XYZ business wanted to provide access to the Finished Goods Factory and Vendors to update Cost Sheet..."
+    },
+    {
+        "title":"Navigate to Cost Sheet from Season Dashboard",
+        "page":29,
+        "section":"1.3.1.1",
+        "description":" 1.Navigate to the Season Dashboard from Home page and select the required Season.\n\n2. Click on  the Line Sheet icon to go to the Season Line Sheet..."
+    },
+    {
+        "title":"Navigate to Cost Sheet from Product Library",
+        "page":33,
+        "section":"1.3.1.2",
+        "description":" 1.Click on Product under Libraries.\n\n2.Choose Product Type and enter other search criteria like Name, Created Date etc..."
+    },
+    {
+        "title":"Generate Tech Pack from Season Dashboard",
+        "page":34,
+        "section":"1.4.1",
+        "description":" 1.Navigate to the Season Dashboard from Home page and select the required Season.\n\n2.Click on  the Line Sheet icon to go to the Season Line Sheet..."
+    },
+    {
+        "title":"Generate Tech Pack from Product Library",
+        "page":38,
+        "section":"1.4.2",
+        "description":" 1.Click on Product under Libraries.\n\n2.Choose Product Type and enter other search criteria like Name, Created Date etc...."
+    },
+    {
+        "title":"Download Tech Pack from Document Library",
+        "page":39,
+        "section":"1.4.3",
+        "description":" 1.Navigate to the Document library. 2.Click on Generated Tech Pack. Enter Search Criteria as required like Name, Created On etc..."
+    },
+    {
+        "title":"View Material",
+        "page":40,
+        "section":"1.5",
+        "description":" Vendor/Finished Goods Factory can view all the Materials assigned to them in Material Library..."
+    },
+    {
+        "title":"View Color",
+        "page":41,
+        "section":"1.6",
+        "description":" Vendor/Finished Goods Factory can view all the Pantone Colors (Solid) in Color Library..."
+    },
+    {
+        "title":"View Document",
+        "page":42,
+        "section":"1.7",
+        "description":" Vendor/Finished Goods Factory can view manuals, tech packs assigned to them. Tech Pack: Steps already explained in section 1.3.3..."
+    }
+]
+

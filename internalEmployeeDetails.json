@@ -1,0 +1,42 @@
+[
+    {
+		"name": "Alex",
+		"mail_address": "alex@kingfisher.com"
+    },
+    {
+		"name": "Jhon",
+		"mail_address": "jhon@kingfisher.com"
+    },  
+    {
+		"name": "Peter",
+		"mail_address": "peter@kingfisher.com"
+    },
+    {
+		"name": "Michael",
+		"mail_address": "michael@kingfisher.com"
+    },
+    {
+		"name": "Tom",
+		"mail_address": "tom@kingfisher.com"
+    },
+    {
+		"name": "James",
+		"mail_address": "james@kingfisher.com"
+    },
+    {
+		"name": "Robert",
+		"mail_address": "robert@kingfisher.com"
+    },  
+    {
+		"name": "William",
+		"mail_address": "william@kingfisher.com"
+    },
+    {
+		"name": "David",
+		"mail_address": "david@kingfisher.com"
+    },
+    {
+		"name": "Richard",
+		"mail_address": "richard@kingfisher.com"
+	}
+]
