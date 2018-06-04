@@ -1,0 +1,15 @@
+{
+    "name": "Kingfisher PLC",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "2824e3e0-67e8-11e8-93df-e130758e4685",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
