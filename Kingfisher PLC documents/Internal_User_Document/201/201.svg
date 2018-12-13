@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_201{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_201{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_201{
+fill: none;
+stroke: #FF0000;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 8;
+}
+.g4_201{
+fill: #1F4E79;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_201" />
+<path d="M84.6,1142.7l772.2,0" class="g2_201" />
+<image preserveAspectRatio="none" x="112" y="112" width="705" height="421" xlink:href="img/1.png" />
+<path d="M111.7,533.6l705.5,0l0,-421.9l-705.5,0l0,421.9Z" class="g2_201" />
+<path d="M116.3,149l230.6,0l0,-29.5l-230.6,0l0,29.5Z" class="g3_201" />
+<path fill-rule="evenodd" d="M334.2,149.6c0,-12,9.9,-21.7,22.2,-21.7c12.3,0,22.2,9.7,22.2,21.7c0,11.9,-9.9,21.6,-22.2,21.6c-12.3,0,-22.2,-9.7,-22.2,-21.6Z" class="g4_201" />
+<image preserveAspectRatio="none" x="342" y="141" width="29" height="18" xlink:href="img/2.png" />
+<path d="M302.5,492.8l414.6,0l0,-101.5l-414.6,0l0,101.5Z" class="g3_201" />
+<path fill-rule="evenodd" d="M692.7,386.5c0,-12,10,-21.7,22.2,-21.7c12.3,0,22.3,9.7,22.3,21.7c0,12,-10,21.7,-22.3,21.7c-12.2,0,-22.2,-9.7,-22.2,-21.7Z" class="g4_201" />
+<image preserveAspectRatio="none" x="700" y="377" width="30" height="19" xlink:href="img/3.png" />
+<path d="M302.5,520.3l190.3,0l0,-20.1l-190.3,0l0,20.1Z" class="g3_201" />
+<path fill-rule="evenodd" d="M492.8,511.3c0,-12,10,-21.7,22.3,-21.7c12.2,0,22.2,9.7,22.2,21.7c0,12,-10,21.7,-22.2,21.7c-12.3,0,-22.3,-9.7,-22.3,-21.7Z" class="g4_201" />
+<image preserveAspectRatio="none" x="500" y="502" width="30" height="18" xlink:href="img/4.png" />
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_42{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_42{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_42{
+fill: none;
+stroke: #FF0000;
+stroke-width: 3.0555544;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g4_42{
+fill: #002060;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_42" />
+<path d="M84.6,1142.7l772.2,0" class="g2_42" />
+<image preserveAspectRatio="none" x="112" y="112" width="689" height="250" xlink:href="img/1.png" />
+<path d="M111.7,362.6l689.8,0l0,-250.9l-689.8,0l0,250.9Z" class="g2_42" />
+<image preserveAspectRatio="none" x="112" y="437" width="690" height="216" xlink:href="img/2.png" />
+<path d="M111.7,654.1l690.7,0l0,-217.7l-690.7,0l0,217.7Z" class="g2_42" />
+<image preserveAspectRatio="none" x="112" y="877" width="690" height="162" xlink:href="img/3.png" />
+<path d="M111.7,1040.1l690.7,0l0,-163.6l-690.7,0l0,163.6Z" class="g2_42" />
+<path d="M735.6,359.3l31,0l0,-21.7l-31,0l0,21.7Z" class="g3_42" />
+<path fill-rule="evenodd" d="M661.1,325.7c0,-11.8,11.2,-21.4,25,-21.4c13.7,0,24.9,9.6,24.9,21.4c0,11.8,-11.2,21.3,-24.9,21.3c-13.8,0,-25,-9.5,-25,-21.3Z" class="g4_42" />
+<image preserveAspectRatio="none" x="670" y="318" width="32" height="16" xlink:href="img/4.png" />
+<path d="M193.6,531l410.2,0l0,-20.6l-410.2,0l0,20.6Z" class="g3_42" />
+<path fill-rule="evenodd" d="M587.8,504.3c0,-11.8,11.1,-21.4,24.9,-21.4c13.8,0,24.9,9.6,24.9,21.4c0,11.8,-11.1,21.3,-24.9,21.3c-13.8,0,-24.9,-9.5,-24.9,-21.3Z" class="g4_42" />
+<image preserveAspectRatio="none" x="597" y="496" width="32" height="16" xlink:href="img/5.png" />
+<path d="M158.1,529.9l31,0l0,-18.3l-31,0l0,18.3Z" class="g3_42" />
+<path d="M225.7,487.5l26.4,0l0,-18.3l-26.4,0l0,18.3Z" class="g3_42" />
+<path d="M192.5,587.2l411.3,0l0,-53.9l-411.3,0l0,53.9Z" class="g3_42" />
+<path d="M118,465.7l43.6,0l0,-20.6l-43.6,0l0,20.6Z" class="g3_42" />
+<path d="M169.6,465.7l43.5,0l0,-20.6l-43.5,0l0,20.6Z" class="g3_42" />
+<path fill-rule="evenodd" d="M137.5,562.7c0,-11.8,11.2,-21.3,24.9,-21.3c13.8,0,25,9.5,25,21.3c0,11.8,-11.2,21.4,-25,21.4c-13.7,0,-24.9,-9.6,-24.9,-21.4Z" class="g4_42" />
+<image preserveAspectRatio="none" x="146" y="555" width="33" height="16" xlink:href="img/6.png" />
+<path fill-rule="evenodd" d="M258.9,482.5c0,-11.8,11.2,-21.4,25,-21.4c13.7,0,24.9,9.6,24.9,21.4c0,11.8,-11.2,21.3,-24.9,21.3c-13.8,0,-25,-9.5,-25,-21.3Z" class="g4_42" />
+<image preserveAspectRatio="none" x="268" y="474" width="32" height="17" xlink:href="img/7.png" />
+<path fill-rule="evenodd" d="M115.7,484.8c0,-11.8,11.2,-21.4,25,-21.4c13.7,0,24.9,9.6,24.9,21.4c0,11.8,-11.2,21.3,-24.9,21.3c-13.8,0,-25,-9.5,-25,-21.3Z" class="g4_42" />
+<image preserveAspectRatio="none" x="125" y="477" width="32" height="16" xlink:href="img/8.png" />
+<path fill-rule="evenodd" d="M169.6,482.5c0,-11.8,11.1,-21.4,24.9,-21.4c13.8,0,24.9,9.6,24.9,21.4c0,11.8,-11.1,21.3,-24.9,21.3c-13.8,0,-24.9,-9.5,-24.9,-21.3Z" class="g4_42" />
+<image preserveAspectRatio="none" x="178" y="474" width="33" height="17" xlink:href="img/9.png" />
+<path fill-rule="evenodd" d="M590.1,574.2c0,-11.8,11.1,-21.4,24.9,-21.4c13.7,0,24.9,9.6,24.9,21.4c0,11.8,-11.2,21.3,-24.9,21.3c-13.8,0,-24.9,-9.5,-24.9,-21.3Z" class="g4_42" />
+<image preserveAspectRatio="none" x="599" y="566" width="32" height="16" xlink:href="img/10.png" />
+</svg>

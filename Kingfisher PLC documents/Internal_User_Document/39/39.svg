@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_39{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_39{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_39{
+fill: none;
+stroke: #000000;
+stroke-width: 1.5277791;
+stroke-linecap: square;
+stroke-linejoin: miter;
+stroke-miterlimit: 8;
+}
+.g4_39{
+fill: none;
+stroke: #FF0000;
+stroke-width: 3.0555544;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 8;
+}
+.g5_39{
+fill: #002060;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_39" />
+<path d="M84.6,1142.7l772.2,0" class="g2_39" />
+<image preserveAspectRatio="none" x="112" y="112" width="224" height="529" xlink:href="img/1.png" />
+<path d="M111.5,641.3l225,0l0,-529.8l-225,0l0,529.8Z" class="g3_39" />
+<path d="M191.4,485.4l77.8,0l0,-22.8l-77.8,0l0,22.8Z" class="g4_39" />
+<path fill-rule="evenodd" d="M256.6,462.2c0,-11.8,11.2,-21.4,25,-21.4c13.7,0,24.9,9.6,24.9,21.4c0,11.8,-11.2,21.3,-24.9,21.3c-13.8,0,-25,-9.5,-25,-21.3Z" class="g5_39" />
+<image preserveAspectRatio="none" x="265" y="454" width="33" height="16" xlink:href="img/2.png" />
+</svg>

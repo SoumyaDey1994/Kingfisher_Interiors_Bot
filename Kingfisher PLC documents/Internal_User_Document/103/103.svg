@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_103{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_103{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_103{
+fill: none;
+stroke: #FF0000;
+stroke-width: 3.4375;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g4_103{
+fill: #376092;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_103" />
+<path d="M84.6,1142.7l772.2,0" class="g2_103" />
+<image preserveAspectRatio="none" x="112" y="112" width="690" height="343" xlink:href="img/1.png" />
+<path d="M111.7,455.2l690.7,0l0,-343.5l-690.7,0l0,343.5Z" class="g2_103" />
+<image preserveAspectRatio="none" x="112" y="535" width="644" height="420" xlink:href="img/2.png" />
+<path d="M111.7,955.7l645.1,0l0,-421.6l-645.1,0l0,421.6Z" class="g2_103" />
+<image preserveAspectRatio="none" x="167" y="998" width="28" height="26" xlink:href="img/3.png" />
+<path d="M166.7,1024.1l28.7,0l0,-26.3l-28.7,0l0,26.3Z" class="g2_103" />
+<path d="M704.4,130.5l51.8,0l0,-19.7l-51.8,0l0,19.7Z" class="g3_103" />
+<path fill-rule="evenodd" d="M746.4,142.9c0,-13,10.5,-23.5,23.4,-23.5c13,0,23.5,10.5,23.5,23.5c0,12.9,-10.5,23.4,-23.5,23.4c-12.9,0,-23.4,-10.5,-23.4,-23.4Z" class="g4_103" />
+<image preserveAspectRatio="none" x="755" y="133" width="30" height="19" xlink:href="img/4.png" />
+<path fill-rule="evenodd" d="M423.9,369c0,-12.9,10.5,-23.4,23.4,-23.4c13,0,23.5,10.5,23.5,23.4c0,13,-10.5,23.5,-23.5,23.5C434.4,392.5,423.9,382,423.9,369Z" class="g4_103" />
+<image preserveAspectRatio="none" x="432" y="360" width="30" height="19" xlink:href="img/5.png" />
+<path fill-rule="evenodd" d="M271.7,613.7c0,-13,10.5,-23.4,23.4,-23.4c13,0,23.4,10.4,23.4,23.4c0,12.9,-10.4,23.4,-23.4,23.4c-12.9,0,-23.4,-10.5,-23.4,-23.4Z" class="g4_103" />
+</svg>

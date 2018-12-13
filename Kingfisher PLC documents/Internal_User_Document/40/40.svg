@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_40{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_40{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_40{
+fill: none;
+stroke: #000000;
+stroke-width: 1.5277791;
+stroke-linecap: square;
+stroke-linejoin: miter;
+stroke-miterlimit: 8;
+}
+.g4_40{
+fill: none;
+stroke: #FF0000;
+stroke-width: 3.0555544;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 8;
+}
+.g5_40{
+fill: #002060;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_40" />
+<path d="M84.6,1142.7l772.2,0" class="g2_40" />
+<image preserveAspectRatio="none" x="112" y="112" width="689" height="547" xlink:href="img/1.png" />
+<path d="M111.5,659.6l690.2,0l0,-548.1l-690.2,0l0,548.1Z" class="g3_40" />
+<image preserveAspectRatio="none" x="112" y="666" width="690" height="147" xlink:href="img/2.png" />
+<path d="M111.5,813.9l691,0l0,-148.5l-691,0l0,148.5Z" class="g3_40" />
+<path d="M110,140.5l163.9,0l0,-29.8l-163.9,0l0,29.8Z" class="g4_40" />
+<path fill-rule="evenodd" d="M257.8,138.9c0,-11.8,11.2,-21.3,24.9,-21.3c13.8,0,25,9.5,25,21.3c0,11.8,-11.2,21.4,-25,21.4c-13.7,0,-24.9,-9.6,-24.9,-21.4Z" class="g5_40" />
+<image preserveAspectRatio="none" x="267" y="131" width="32" height="16" xlink:href="img/3.png" />
+<path d="M673.8,134.6l56,0l0,-22.8l-56,0l0,22.8Z" class="g4_40" />
+<path fill-rule="evenodd" d="M650.8,158.7c0,-11.8,11.2,-21.4,25,-21.4c13.7,0,24.9,9.6,24.9,21.4c0,11.8,-11.2,21.3,-24.9,21.3c-13.8,0,-25,-9.5,-25,-21.3Z" class="g5_40" />
+<image preserveAspectRatio="none" x="660" y="151" width="32" height="16" xlink:href="img/4.png" />
+<path fill-rule="evenodd" d="M440,247.8c0,-11.8,11.2,-21.4,24.9,-21.4c13.8,0,25,9.6,25,21.4c0,11.8,-11.2,21.3,-25,21.3c-13.7,0,-24.9,-9.5,-24.9,-21.3Z" class="g5_40" />
+<image preserveAspectRatio="none" x="449" y="240" width="32" height="16" xlink:href="img/5.png" />
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_23{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_23{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_23{
+fill: none;
+stroke: #000000;
+stroke-width: 0.38194567;
+stroke-linecap: square;
+stroke-linejoin: miter;
+stroke-miterlimit: 8;
+}
+.g4_23{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 8;
+}
+.g5_23{
+fill: #C8C8C8;
+}
+.g6_23{
+fill: none;
+stroke: #ED7D31;
+stroke-width: 3.0555544;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 8;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_23" />
+<path d="M84.6,1142.7l772.2,0" class="g2_23" />
+<image preserveAspectRatio="none" x="112" y="112" width="690" height="246" xlink:href="img/1.png" />
+<path d="M112.1,358.1l689.9,0l0,-246l-689.9,0l0,246Z" class="g3_23" />
+<image preserveAspectRatio="none" x="112" y="410" width="690" height="181" xlink:href="img/2.png" />
+<path d="M111.7,592l690.7,0l0,-182.3l-690.7,0l0,182.3Z" class="g4_23" />
+<image preserveAspectRatio="none" x="112" y="644" width="690" height="131" xlink:href="img/3.png" />
+<path d="M112.1,775.6l689.8,0l0,-131.7l-689.8,0l0,131.7Z" class="g3_23" />
+<path fill-rule="evenodd" d="M112.3,824.1l12,-4.5l-8.6,-7.3l13.6,-1.1l-3.8,-9l13.2,2.6l1.5,-9.3l10.7,5.8l6.7,-8.1l6.6,8.1l10.7,-5.8l1.5,9.3l13.2,-2.6l-3.8,9l13.6,1.1l-8.5,7.3l11.9,4.5l-11.9,4.5l8.5,7.4l-13.6,1l3.8,9l-13.2,-2.6l-1.5,9.3l-10.7,-5.8l-6.6,8.2l-6.7,-8.2l-10.7,5.8l-1.5,-9.3L125.5,846l3.8,-9l-13.6,-1l8.6,-7.4Z" class="g5_23" />
+<path d="M112.3,824.1l12,-4.5l-8.6,-7.3l13.6,-1.1l-3.8,-9l13.2,2.6l1.5,-9.3l10.7,5.8l6.7,-8.1l6.6,8.1l10.7,-5.8l1.5,9.3l13.2,-2.6l-3.8,9l13.6,1.1l-8.5,7.3l11.9,4.5l-11.9,4.5l8.5,7.4l-13.6,1l3.8,9l-13.2,-2.6l-1.5,9.3l-10.7,-5.8l-6.6,8.2l-6.7,-8.2l-10.7,5.8l-1.5,-9.3L125.5,846l3.8,-9l-13.6,-1l8.6,-7.4Z" class="g6_23" />
+</svg>

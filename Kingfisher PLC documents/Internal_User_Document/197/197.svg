@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_197{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_197{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_197{
+fill: none;
+stroke: #FF0000;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 8;
+}
+.g4_197{
+fill: #1F4E79;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_197" />
+<path d="M84.6,1142.7l772.2,0" class="g2_197" />
+<image preserveAspectRatio="none" x="112" y="112" width="712" height="514" xlink:href="img/1.png" />
+<path d="M111.7,626.9l713,0l0,-515.2l-713,0l0,515.2Z" class="g2_197" />
+<image preserveAspectRatio="none" x="112" y="678" width="715" height="177" xlink:href="img/2.png" />
+<path d="M111.7,855.3l716.2,0l0,-177.5l-716.2,0l0,177.5Z" class="g2_197" />
+<image preserveAspectRatio="none" x="186" y="873" width="25" height="27" xlink:href="img/3.png" />
+<path d="M185,900.2l26.3,0l0,-27.5l-26.3,0l0,27.5Z" class="g2_197" />
+<path d="M289.7,500.2l142.8,0l0,-29.6l-142.8,0l0,29.6Z" class="g3_197" />
+<path fill-rule="evenodd" d="M423,466.9c0,-11.9,9.9,-21.6,22.2,-21.6c12.3,0,22.2,9.7,22.2,21.6c0,12,-9.9,21.7,-22.2,21.7c-12.3,0,-22.2,-9.7,-22.2,-21.7Z" class="g4_197" />
+<image preserveAspectRatio="none" x="430" y="458" width="30" height="18" xlink:href="img/4.png" />
+<path d="M598.6,603.9l197.7,0l0,-17l-197.7,0l0,17Z" class="g3_197" />
+<path fill-rule="evenodd" d="M772,573.7c0,-12,9.9,-21.7,22.2,-21.7c12.2,0,22.2,9.7,22.2,21.7c0,12,-10,21.6,-22.2,21.6c-12.3,0,-22.2,-9.6,-22.2,-21.6Z" class="g4_197" />
+<image preserveAspectRatio="none" x="779" y="565" width="30" height="18" xlink:href="img/5.png" />
+<path d="M115.3,694.9l143.8,0l0,-15.9l-143.8,0l0,15.9Z" class="g3_197" />
+<path fill-rule="evenodd" d="M245.4,704.9c0,-12,9.9,-21.6,22.2,-21.6c12.2,0,22.1,9.6,22.1,21.6c0,11.9,-9.9,21.6,-22.1,21.6c-12.3,0,-22.2,-9.7,-22.2,-21.6Z" class="g4_197" />
+<image preserveAspectRatio="none" x="253" y="696" width="30" height="18" xlink:href="img/6.png" />
+</svg>

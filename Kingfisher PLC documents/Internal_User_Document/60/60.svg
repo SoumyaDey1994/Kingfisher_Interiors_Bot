@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_60{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_60{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_60{
+fill: none;
+stroke: #FF0000;
+stroke-width: 3.0555544;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g4_60{
+fill: #17375E;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_60" />
+<path d="M84.6,1142.7l772.2,0" class="g2_60" />
+<image preserveAspectRatio="none" x="112" y="112" width="683" height="680" xlink:href="img/1.png" />
+<path d="M111.7,792.1l683.8,0l0,-680.4l-683.8,0l0,680.4Z" class="g2_60" />
+<path d="M114.6,147.4l195.9,0l0,-33.3l-195.9,0l0,33.3Z" class="g3_60" />
+<path fill-rule="evenodd" d="M301.4,158.8c0,-12.6,11,-22.9,24.6,-22.9c13.6,0,24.6,10.3,24.6,22.9c0,12.7,-11,22.9,-24.6,22.9c-13.6,0,-24.6,-10.2,-24.6,-22.9Z" class="g4_60" />
+<image preserveAspectRatio="none" x="310" y="150" width="32" height="18" xlink:href="img/2.png" />
+<path d="M121.5,778.7l613,0l0,-483.5l-613,0l0,483.5Z" class="g3_60" />
+<path fill-rule="evenodd" d="M375.8,300.9c0,-12.7,11.1,-22.9,24.7,-22.9c13.6,0,24.6,10.2,24.6,22.9c0,12.6,-11,22.9,-24.6,22.9c-13.6,0,-24.7,-10.3,-24.7,-22.9Z" class="g4_60" />
+<image preserveAspectRatio="none" x="385" y="292" width="31" height="18" xlink:href="img/3.png" />
+<path d="M650.8,141.6l67.6,0l0,-27.5l-67.6,0l0,27.5Z" class="g3_60" />
+<path fill-rule="evenodd" d="M609.6,147.4c0,-12.7,11,-23,24.6,-23c13.6,0,24.7,10.3,24.7,23c0,12.6,-11.1,22.9,-24.7,22.9c-13.6,0,-24.6,-10.3,-24.6,-22.9Z" class="g4_60" />
+<image preserveAspectRatio="none" x="618" y="138" width="32" height="19" xlink:href="img/4.png" />
+</svg>

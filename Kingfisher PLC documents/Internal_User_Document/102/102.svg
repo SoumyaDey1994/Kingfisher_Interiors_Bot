@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_102{
+fill: none;
+stroke: #000066;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2_102{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3_102{
+fill: none;
+stroke: #FF0000;
+stroke-width: 3.4375;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g4_102{
+fill: #376092;
+}
+]]></style>
+</defs>
+<path d="M100.5,103.5l794.1,0" class="g1_102" />
+<path d="M84.6,1142.7l772.2,0" class="g2_102" />
+<image preserveAspectRatio="none" x="215" y="136" width="28" height="25" xlink:href="img/1.png" />
+<path d="M214.8,161.7l28.7,0l0,-26.4l-28.7,0l0,26.4Z" class="g2_102" />
+<image preserveAspectRatio="none" x="112" y="189" width="690" height="232" xlink:href="img/2.png" />
+<path d="M111.7,421.3l690.7,0l0,-233.3l-690.7,0l0,233.3Z" class="g2_102" />
+<image preserveAspectRatio="none" x="112" y="501" width="682" height="280" xlink:href="img/3.png" />
+<path d="M111.7,781.2l683.2,0l0,-280.9l-683.2,0l0,280.9Z" class="g2_102" />
+<path d="M119.9,413l252,0l0,-116.1l-252,0l0,116.1Z" class="g3_102" />
+<path fill-rule="evenodd" d="M242.2,282c0,-12.9,10.5,-23.4,23.4,-23.4c13,0,23.5,10.5,23.5,23.4c0,13,-10.5,23.5,-23.5,23.5C252.7,305.5,242.2,295,242.2,282Z" class="g4_102" />
+<image preserveAspectRatio="none" x="251" y="272" width="30" height="19" xlink:href="img/4.png" />
+<path fill-rule="evenodd" d="M212.4,724.7c0,-12.9,10.4,-23.4,23.4,-23.4c12.9,0,23.4,10.5,23.4,23.4c0,13,-10.5,23.5,-23.4,23.5c-13,0,-23.4,-10.5,-23.4,-23.5Z" class="g4_102" />
+<path d="M242.2,721.2l232.3,0l0,-75.3l-232.3,0l0,75.3Z" class="g3_102" />
+<path fill-rule="evenodd" d="M215,724.9c0,-13,10.5,-23.5,23.5,-23.5c12.9,0,23.4,10.5,23.4,23.5c0,12.9,-10.5,23.4,-23.4,23.4c-13,0,-23.5,-10.5,-23.5,-23.4Z" class="g4_102" />
+<image preserveAspectRatio="none" x="223" y="715" width="31" height="19" xlink:href="img/5.png" />
+</svg>
